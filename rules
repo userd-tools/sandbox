@@ -1,0 +1,9 @@
+asadsfa
+hdadsf
+#
+ACTION="add", ATTR{idProduct}=="2303"
+ACTION=add
+SUBSYSTEM=="tty",   ATTRS{idVendor}=="067b"
+
+SUBSYSTEM=="tty", ATTRS{idVendor}=="aaaaa"
+
