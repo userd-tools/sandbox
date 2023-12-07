@@ -1,2 +1,2 @@
 # sandbox
-snippets &amp; samples
+snippets & samples
